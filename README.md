@@ -9,7 +9,7 @@
 Seeking to continue developing my Data Science skills and collaborate with the community in Data Science projects. ✔<!--/em--></p>
 
 Contact:
-<a href="https://www.linkedin.com/in/daniel-eduardo-lopez">LinkedIn</a>
+**<a href="https://www.linkedin.com/in/daniel-eduardo-lopez">LinkedIn</a>**
 
 <!--
 **DanielEduardoLopez/DanielEduardoLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
