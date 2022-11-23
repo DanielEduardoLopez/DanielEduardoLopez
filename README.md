@@ -6,7 +6,7 @@
 
 <p><!--em--> Engineer specialized in data, with 5 years of expertise in the field of the Chemical Industry and the Industrial Property. The thing I enjoy the most is working with the data and working with the people. 
   
-I love learning 🤓 and I look forward for a balance among my hard and soft skills ⚖, reason why I hold an <b>Master of Business Administration</b> (Mexico) and also a <b>Master in Quantitative Biotechnology</b> (Spain).
+I love learning 🤓 and I look forward for a balance ⚖ among my hard and soft skills, reason why I hold an <b>Master of Business Administration</b> (Mexico) and also a <b>Master in Quantitative Biotechnology</b> (Spain).
   
 Currently, I work at <a href="https://es.sterigenics.com/">Sterigenics</a>, and I am pursuing the Master in Data Science & Artificial Intelligence at <a href="https://www.devf.la">DEV.F</a>.
 
