@@ -8,7 +8,7 @@
   
 I love learning 🤓 and I look forward for a balance ⚖ among my hard and soft skills, reason why I hold an <b>Master of Business Administration</b> (Mexico) and also a <b>Master in Quantitative Biotechnology</b> (Spain).
   
-Currently, I work at <a href="https://www.novartis.com/">Novartis</a>, and I seek to continue developing my data skills and collaborate with the community in data projects. ✔<!--/em--></p>
+In my last positions, I have successfully managed end-to-end data projects. Currently, I work at <a href="https://www.novartis.com/">Novartis</a>, and I seek to continue developing my data skills and collaborate with the community in data projects. ✔<!--/em--></p>
 
 How to reach me:
 **<a href="https://www.linkedin.com/in/daniel-eduardo-lopez">LinkedIn</a>**
