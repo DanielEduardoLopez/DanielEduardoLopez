@@ -1,10 +1,10 @@
 <h1 align="center">Daniel Eduardo López</h1>
 
-<h3 align="center"> Data Analyst 📈 | Data Scientist 💻 | M. Sc. 🧬 | MBA 💰 </h3>
+<h3 align="center"> Senior Data Analyst 📈 | M. Sc. 🧬 | MBA 💰 </h3>
 
 <h2> Hi there 👋 </h2>
 
-<p><!--em--> Engineer specialized in data, with 7 years of experience in the Intellectual Property, Medical Products, and Pharmaceutical industries. The thing I enjoy the most is working with the data and working with the people. 
+<p><!--em--> Engineer specialized in data analysis, with 7 years of experience in the Intellectual Property, Medical Products, and Pharmaceutical industries. The thing I enjoy the most is working with the data and working with the people. 
   
 I love learning 🤓 and I look forward for a balance ⚖ among my hard and soft skills, reason why I hold an <b>Master of Business Administration</b> (Mexico) and also a <b>Master in Quantitative Biotechnology</b> (Spain).
   
