@@ -4,11 +4,11 @@
 
 <h2> Hi there 👋 </h2>
 
-<p><!--em--> Engineer specialized in data analysis, with 7 years of experience in the Pharma, Medical Products, and Intellectual Property. The thing I enjoy the most is working with the data and working with the people. 
+<p><!--em--> Engineer specialized in data analysis, with 7 years of experience in Pharma, Medical Products, and Intellectual Property. The thing I enjoy the most is working with the data and working with the people. 
   
 I love learning 🤓 and I look forward for a balance ⚖ among my hard and soft skills, reason why I hold an <b>Master of Business Administration</b> (Mexico) and also a <b>Master in Quantitative Biotechnology</b> (Spain).
   
-In my last positions, I have successfully managed end-to-end data projects. Currently, I work at <a href="https://www.novartis.com/">Novartis</a>, and I seek to continue developing my data skills and collaborate with the community in data projects. ✔<!--/em--></p>
+In my last positions, I have successfully managed end-to-end data projects. Currently, I work at <a href="https://www.novartis.com/">Novartis</a>, and I seek to continue supporting decision-making, creating business value from data, and collaborating with the community in data projects. ✔<!--/em--></p>
 
 How to reach me:
 **<a href="https://www.linkedin.com/in/daniel-eduardo-lopez">LinkedIn</a>**
